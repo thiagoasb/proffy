@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="web/src/assets/images/logo.svg" alt="logo">
+  <img src="/web/src/assets/images/logo.svg" alt="logo">
 </h1>
 
 <p align="center">
@@ -7,7 +7,6 @@
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#author">Author</a>
 </p>
 
 ## 📄️ About
