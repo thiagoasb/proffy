@@ -1,13 +1,13 @@
 <h1 align="center">
   <img src="/web/src/assets/images/logo.svg" alt="logo">
 </h1>
-
+<!--
 <p align="center">
   <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+</p>-->
 
 ## 📄️ About
  This project is a plataform for students and teachers be connected through an web and mobile application.
